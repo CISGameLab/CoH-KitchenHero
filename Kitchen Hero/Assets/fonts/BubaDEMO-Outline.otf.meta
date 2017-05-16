@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4b0036a93100dbb4b9233030e75e4e5f
+timeCreated: 1492765571
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Buba DEMO
+  fontNames:
+  - Buba DEMO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 00b3b73ba3231604a8e544895b05ee73, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
